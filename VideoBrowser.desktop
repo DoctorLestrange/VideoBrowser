@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Video Browser
+Comment=Inspect, analyze, and manage video metadata
+Exec=bash -c "$(dirname %k)/VideoBrowser.sh"
+Terminal=false
+Categories=AudioVideo;Video;Utility;
+StartupNotify=true
